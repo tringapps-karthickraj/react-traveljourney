@@ -1,0 +1,39 @@
+.imageWithDetails {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    padding: 10px;
+  }
+  
+  .images {
+    height: 220px;
+    width: 160px;
+    border-radius: 5px;
+  }
+  
+  .details {
+    margin-left: 10px;
+    text-align: left;
+  }
+  .details .diaplay{
+      display: flex;
+  }
+  
+  p {
+    line-height: 8px;
+  }
+  
+  .description {
+    line-height: 18px;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .locIcon {
+    height: 20px;
+    width: 10px;
+    margin-right: 8px;
+  }
